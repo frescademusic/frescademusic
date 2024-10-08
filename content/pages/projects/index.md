@@ -19,7 +19,15 @@ projectFeed:
         - pr-4
         - pb-12
   title: ''
-  actions: []
+  actions:
+    - type: Link
+      label: Learn more
+      altText: ''
+      url: '/https://www.youtube.com/watch?v=NcZqjM4h6C0'
+      showIcon: false
+      icon: arrowRight
+      iconPosition: right
+      elementId: ''
 styles:
   title:
     textAlign: left

@@ -14,8 +14,8 @@ sections:
     backgroundSize: full
     title: Muntasir Mahmud
     subtitle: >-
-      Also known as FRESCADE, he believes in music supremacy can make the world
-      better.
+      Also known as FRESCADE, he believes that the usic supremacy can make the
+      world better.
     styles:
       self:
         height: auto

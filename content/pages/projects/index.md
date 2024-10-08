@@ -28,15 +28,6 @@ projectFeed:
       icon: youtube
       iconPosition: left
       elementId: ''
-    - type: Button
-      label: Learn more
-      altText: ''
-      url: '/https://www.youtube.com/watch?v=NcZqjM4h6C0'
-      showIcon: false
-      icon: youtube
-      iconPosition: left
-      style: primary
-      elementId: ''
 styles:
   title:
     textAlign: left

@@ -33,7 +33,7 @@ projectFeed:
       altText: ''
       url: '/https://www.youtube.com/watch?v=NcZqjM4h6C0'
       showIcon: false
-      icon: arrowRight
+      icon: youtube
       iconPosition: right
       style: primary
       elementId: ''

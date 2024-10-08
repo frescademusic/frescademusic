@@ -21,7 +21,7 @@ projectFeed:
   title: ''
   actions:
     - type: Link
-      label: Learn more
+      label: ''
       altText: ''
       url: '/https://www.youtube.com/watch?v=NcZqjM4h6C0'
       showIcon: false

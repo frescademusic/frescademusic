@@ -2,13 +2,6 @@
 type: ProjectFeedLayout
 title: Projects
 colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg1.jpg
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 50
 projectFeed:
   type: ProjectFeedSection
   colors: colors-f
@@ -16,7 +9,7 @@ projectFeed:
   showDescription: true
   showReadMoreLink: true
   showFeaturedImage: true
-  variant: variant-a
+  variant: variant-b
   styles:
     self:
       width: narrow
@@ -25,6 +18,16 @@ projectFeed:
         - pl-4
         - pr-4
         - pb-12
+  title: ''
+  actions:
+    - type: Link
+      label: Alexander Stewart - Blame's On Me (FRESCADE Remix)
+      altText: ''
+      url: '/https://www.youtube.com/watch?v=NcZqjM4h6C0'
+      showIcon: true
+      icon: youtube
+      iconPosition: left
+      elementId: ''
 styles:
   title:
     textAlign: left
@@ -95,4 +98,5 @@ bottomSections:
         textAlign: left
       text:
         textAlign: left
+topSections: []
 ---

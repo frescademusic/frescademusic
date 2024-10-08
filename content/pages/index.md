@@ -50,7 +50,7 @@ sections:
       type: ImageBlock
       url: /images/PXL_20230922_021115792-(Full).jpg
       altText: ''
-      caption: Caption of the image
+      caption: ''
       elementId: ''
   - colors: colors-f
     type: FeaturedProjectsSection

@@ -18,7 +18,7 @@ projectFeed:
         - pl-4
         - pr-4
         - pb-12
-  title: ''
+  title: fsf
   actions:
     - type: Link
       label: Alexander Stewart - Blame's On Me (FRESCADE Remix)

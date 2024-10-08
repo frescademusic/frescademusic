@@ -21,7 +21,7 @@ projectFeed:
   title: ''
   actions:
     - type: Link
-      label: ''
+      label: Alexander Stewart - Blame's On Me (FRESCADE Remix)
       altText: ''
       url: '/https://www.youtube.com/watch?v=NcZqjM4h6C0'
       showIcon: false

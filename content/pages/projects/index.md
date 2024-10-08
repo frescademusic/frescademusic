@@ -19,6 +19,16 @@ projectFeed:
         - pr-4
         - pb-12
   title: ''
+  actions:
+    - type: Button
+      label: Learn more
+      altText: ''
+      url: /
+      showIcon: false
+      icon: arrowRight
+      iconPosition: right
+      style: primary
+      elementId: ''
 styles:
   title:
     textAlign: left

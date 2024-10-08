@@ -49,7 +49,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/PXL_20230922_021115792-(Full).jpg
-      altText: altText of the image
+      altText: ''
       caption: Caption of the image
       elementId: ''
   - colors: colors-f

@@ -34,7 +34,7 @@ projectFeed:
       url: '/https://www.youtube.com/watch?v=NcZqjM4h6C0'
       showIcon: false
       icon: youtube
-      iconPosition: right
+      iconPosition: left
       style: primary
       elementId: ''
 styles:

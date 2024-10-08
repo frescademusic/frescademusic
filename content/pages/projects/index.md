@@ -25,7 +25,7 @@ projectFeed:
       altText: ''
       url: '/https://www.youtube.com/watch?v=NcZqjM4h6C0'
       showIcon: true
-      icon: arrowRight
+      icon: apple
       iconPosition: right
       elementId: ''
 styles:
